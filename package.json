@@ -1,0 +1,13 @@
+{
+  "name":"api-heroes",
+  "version": "1.0.0",
+  "description": "Soy Una API",
+  "main": "server.js",
+  "author": "Ruben Aguilar",
+  "scripts": {
+   "start": "node server.js" 
+  },
+  "dependencies": {
+  "json-server": "^0.17.0"
+  }
+}
